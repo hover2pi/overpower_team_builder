@@ -14,7 +14,17 @@ To run:
 from itertools import combinations
 import csv
 
-def make_overpower_teams(csvfile, stat_name, save=False):
+
+def make_all_teams():
+    """
+    Quickly make all possible teams and save to CSV
+    """
+    stats = ['Energy', 'Fighting', 'Strength', 'Intellect']
+    for stat in stats:
+        make_overpower_teams(stat, save=True)
+
+
+def make_overpower_teams(stat_name, csvfile='data/characters.csv', save=False):
     """
     Wrapper function to run everything
     
@@ -34,7 +44,7 @@ def make_overpower_teams(csvfile, stat_name, save=False):
     valid_teams = build_valid_teams(chars, stat_name.capitalize())
     
     # Print and/or save to CSV file
-    show_teams_table(valid_teams, chars, save=save, filename=f"{stat_name}_teams.txt")
+    show_teams_table(valid_teams, chars, save=save, filename=f"teams/{stat_name}_teams.txt")
 
 
 def import_characters(file):

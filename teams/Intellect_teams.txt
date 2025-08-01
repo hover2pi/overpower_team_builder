@@ -1,0 +1,291 @@
+Character 1                          Character 2                          Character 3                          Character 4                            Total
+===========================================================================================================================================================
+Cerebro [6, 3, 3, 8]                 Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)       75
+Cerebro [6, 3, 3, 8]                 Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Bastion [3, 2, 4, 7]                      73
+Cerebro [6, 3, 3, 8]                 Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Black King [3, 3, 6, 7]                   76
+Cerebro [6, 3, 3, 8]                 Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Dark Beast  [1, 6, 5, 7]                  76
+Cerebro [6, 3, 3, 8]                 Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Donald Pierce [4, 2, 6, 7]                76
+Cerebro [6, 3, 3, 8]                 Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Henry Pym [3, 4, 3, 7]                    74
+Cerebro [6, 3, 3, 8]                 Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Iron Man: Original Armor [4, 3, 5, 7]     76
+Cerebro [6, 3, 3, 8]                 Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Joker  [4, 5, 2, 7]                       75
+Cerebro [6, 3, 3, 8]                 Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Leader [3, 4, 2, 7]                       73
+Cerebro [6, 3, 3, 8]                 Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Lex Luthor  [3, 4, 3, 8]                  75
+Cerebro [6, 3, 3, 8]                 Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mister Miracle  [3, 5, 3, 7]              75
+Cerebro [6, 3, 3, 8]                 Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Professor X [8, 2, 1, 7]                  75
+Cerebro [6, 3, 3, 8]                 Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Red Skull [3, 5, 4, 7]                    76
+Cerebro [6, 3, 3, 8]                 Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Riddler  [3, 5, 3, 7]                     75
+Cerebro [6, 3, 3, 8]                 Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Robin  [3, 6, 2, 7]                       75
+Cerebro [6, 3, 3, 8]                 Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shadow King [7, 1, 1, 7]                  73
+Cerebro [6, 3, 3, 8]                 Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Trickster [6, 5, 1, 7]                    76
+Cerebro [6, 3, 3, 8]                 Dracula [3, 5, 6, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Bastion [3, 2, 4, 7]                      75
+Cerebro [6, 3, 3, 8]                 Dracula [3, 5, 6, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Henry Pym [3, 4, 3, 7]                    76
+Cerebro [6, 3, 3, 8]                 Dracula [3, 5, 6, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Leader [3, 4, 2, 7]                       75
+Cerebro [6, 3, 3, 8]                 Dracula [3, 5, 6, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shadow King [7, 1, 1, 7]                  75
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Backlash, Future [6, 4, 3, 7]             75
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Bastion [3, 2, 4, 7]                      71
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Batman  [2, 7, 4, 7]                      75
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Beast [2, 5, 6, 7]                        75
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Black King [3, 3, 6, 7]                   74
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Brainiac  [8, 1, 4, 7]                    75
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Dark Beast  [1, 6, 5, 7]                  74
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Doctor Doom [5, 3, 4, 8]                  75
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Doctor Doom 2099 [5, 3, 6, 7]             76
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Doctor Octopus [2, 5, 6, 7]               75
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Donald Pierce [4, 2, 6, 7]                74
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Grey King [6, 3, 5, 7]                    76
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Hellfire Club [6, 4, 4, 7] (draw 3)       76
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Henry Pym [3, 4, 3, 7]                    72
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Iron Man: Original Armor [4, 3, 5, 7]     74
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Joker  [4, 5, 2, 7]                       73
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Leader [3, 4, 2, 7]                       71
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mister Miracle  [3, 5, 3, 7]              73
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]                 76
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                       76
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Professor X [8, 2, 1, 7]                  73
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Ra'S Al Ghul  [3, 7, 3, 7]                75
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Red Skull [3, 5, 4, 7]                    74
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Riddler  [3, 5, 3, 7]                     73
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Robin  [3, 6, 2, 7]                       73
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shadow King [7, 1, 1, 7]                  71
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                       75
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Trickster [6, 5, 1, 7]                    74
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Sinister [4, 5, 4, 8]            Mr. Fantastic [2, 5, 2, 8] (draw 3)       76
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Neron  [5, 2, 6, 8]                  Mr. Fantastic [2, 5, 2, 8] (draw 3)       76
+Cerebro [6, 3, 3, 8]                 Lex Luthor  [3, 4, 3, 8]             Shi'Ar [5, 4, 3, 8]                  Mr. Fantastic [2, 5, 2, 8] (draw 3)       75
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Bastion [3, 2, 4, 7]                      74
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Henry Pym [3, 4, 3, 7]                    75
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Joker  [4, 5, 2, 7]                       76
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Leader [3, 4, 2, 7]                       74
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Lex Luthor  [3, 4, 3, 8]                  76
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Mister Miracle  [3, 5, 3, 7]              76
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Professor X [8, 2, 1, 7]                  76
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Riddler  [3, 5, 3, 7]                     76
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Robin  [3, 6, 2, 7]                       76
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Shadow King [7, 1, 1, 7]                  74
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Bastion [3, 2, 4, 7]                      74
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Henry Pym [3, 4, 3, 7]                    75
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Joker  [4, 5, 2, 7]                       76
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Leader [3, 4, 2, 7]                       74
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Lex Luthor  [3, 4, 3, 8]                  76
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Mister Miracle  [3, 5, 3, 7]              76
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Professor X [8, 2, 1, 7]                  76
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Riddler  [3, 5, 3, 7]                     76
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Robin  [3, 6, 2, 7]                       76
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Shadow King [7, 1, 1, 7]                  74
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Bastion [3, 2, 4, 7]                      73
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Black King [3, 3, 6, 7]                   76
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Dark Beast  [1, 6, 5, 7]                  76
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Donald Pierce [4, 2, 6, 7]                76
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Henry Pym [3, 4, 3, 7]                    74
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Iron Man: Original Armor [4, 3, 5, 7]     76
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Joker  [4, 5, 2, 7]                       75
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Leader [3, 4, 2, 7]                       73
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Lex Luthor  [3, 4, 3, 8]                  75
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Mister Miracle  [3, 5, 3, 7]              75
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Professor X [8, 2, 1, 7]                  75
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Red Skull [3, 5, 4, 7]                    76
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Riddler  [3, 5, 3, 7]                     75
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Robin  [3, 6, 2, 7]                       75
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Shadow King [7, 1, 1, 7]                  73
+Cerebro [6, 3, 3, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Trickster [6, 5, 1, 7]                    76
+Doctor Doom [5, 3, 4, 8]             Dracula [3, 5, 6, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Bastion [3, 2, 4, 7]                      75
+Doctor Doom [5, 3, 4, 8]             Dracula [3, 5, 6, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Henry Pym [3, 4, 3, 7]                    76
+Doctor Doom [5, 3, 4, 8]             Dracula [3, 5, 6, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Leader [3, 4, 2, 7]                       75
+Doctor Doom [5, 3, 4, 8]             Dracula [3, 5, 6, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shadow King [7, 1, 1, 7]                  75
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Backlash, Future [6, 4, 3, 7]             75
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Bastion [3, 2, 4, 7]                      71
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Batman  [2, 7, 4, 7]                      75
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Beast [2, 5, 6, 7]                        75
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Black King [3, 3, 6, 7]                   74
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Brainiac  [8, 1, 4, 7]                    75
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Cerebro [6, 3, 3, 8]                      75
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Dark Beast  [1, 6, 5, 7]                  74
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Doctor Doom 2099 [5, 3, 6, 7]             76
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Doctor Octopus [2, 5, 6, 7]               75
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Donald Pierce [4, 2, 6, 7]                74
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Grey King [6, 3, 5, 7]                    76
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Hellfire Club [6, 4, 4, 7] (draw 3)       76
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Henry Pym [3, 4, 3, 7]                    72
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Iron Man: Original Armor [4, 3, 5, 7]     74
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Joker  [4, 5, 2, 7]                       73
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Leader [3, 4, 2, 7]                       71
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mister Miracle  [3, 5, 3, 7]              73
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]                 76
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                       76
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Professor X [8, 2, 1, 7]                  73
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Ra'S Al Ghul  [3, 7, 3, 7]                75
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Red Skull [3, 5, 4, 7]                    74
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Riddler  [3, 5, 3, 7]                     73
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Robin  [3, 6, 2, 7]                       73
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shadow King [7, 1, 1, 7]                  71
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                       75
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Trickster [6, 5, 1, 7]                    74
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Mr. Sinister [4, 5, 4, 8]            Mr. Fantastic [2, 5, 2, 8] (draw 3)       76
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Neron  [5, 2, 6, 8]                  Mr. Fantastic [2, 5, 2, 8] (draw 3)       76
+Doctor Doom [5, 3, 4, 8]             Lex Luthor  [3, 4, 3, 8]             Shi'Ar [5, 4, 3, 8]                  Mr. Fantastic [2, 5, 2, 8] (draw 3)       75
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Bastion [3, 2, 4, 7]                      74
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Henry Pym [3, 4, 3, 7]                    75
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Joker  [4, 5, 2, 7]                       76
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Leader [3, 4, 2, 7]                       74
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Lex Luthor  [3, 4, 3, 8]                  76
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Mister Miracle  [3, 5, 3, 7]              76
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Professor X [8, 2, 1, 7]                  76
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Riddler  [3, 5, 3, 7]                     76
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Robin  [3, 6, 2, 7]                       76
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Shadow King [7, 1, 1, 7]                  74
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Bastion [3, 2, 4, 7]                      74
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Henry Pym [3, 4, 3, 7]                    75
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Joker  [4, 5, 2, 7]                       76
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Leader [3, 4, 2, 7]                       74
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Lex Luthor  [3, 4, 3, 8]                  76
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Mister Miracle  [3, 5, 3, 7]              76
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Professor X [8, 2, 1, 7]                  76
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Riddler  [3, 5, 3, 7]                     76
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Robin  [3, 6, 2, 7]                       76
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Shadow King [7, 1, 1, 7]                  74
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Bastion [3, 2, 4, 7]                      73
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Black King [3, 3, 6, 7]                   76
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Dark Beast  [1, 6, 5, 7]                  76
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Donald Pierce [4, 2, 6, 7]                76
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Henry Pym [3, 4, 3, 7]                    74
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Iron Man: Original Armor [4, 3, 5, 7]     76
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Joker  [4, 5, 2, 7]                       75
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Leader [3, 4, 2, 7]                       73
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Lex Luthor  [3, 4, 3, 8]                  75
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Mister Miracle  [3, 5, 3, 7]              75
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Professor X [8, 2, 1, 7]                  75
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Red Skull [3, 5, 4, 7]                    76
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Riddler  [3, 5, 3, 7]                     75
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Robin  [3, 6, 2, 7]                       75
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Shadow King [7, 1, 1, 7]                  73
+Doctor Doom [5, 3, 4, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Trickster [6, 5, 1, 7]                    76
+Dracula [3, 5, 6, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Bastion [3, 2, 4, 7]                      73
+Dracula [3, 5, 6, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Black King [3, 3, 6, 7]                   76
+Dracula [3, 5, 6, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Dark Beast  [1, 6, 5, 7]                  76
+Dracula [3, 5, 6, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Donald Pierce [4, 2, 6, 7]                76
+Dracula [3, 5, 6, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Henry Pym [3, 4, 3, 7]                    74
+Dracula [3, 5, 6, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Iron Man: Original Armor [4, 3, 5, 7]     76
+Dracula [3, 5, 6, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Joker  [4, 5, 2, 7]                       75
+Dracula [3, 5, 6, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Leader [3, 4, 2, 7]                       73
+Dracula [3, 5, 6, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mister Miracle  [3, 5, 3, 7]              75
+Dracula [3, 5, 6, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Professor X [8, 2, 1, 7]                  75
+Dracula [3, 5, 6, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Red Skull [3, 5, 4, 7]                    76
+Dracula [3, 5, 6, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Riddler  [3, 5, 3, 7]                     75
+Dracula [3, 5, 6, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Robin  [3, 6, 2, 7]                       75
+Dracula [3, 5, 6, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shadow King [7, 1, 1, 7]                  73
+Dracula [3, 5, 6, 8]                 Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Trickster [6, 5, 1, 7]                    76
+Dracula [3, 5, 6, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Bastion [3, 2, 4, 7]                      76
+Dracula [3, 5, 6, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Leader [3, 4, 2, 7]                       76
+Dracula [3, 5, 6, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Shadow King [7, 1, 1, 7]                  76
+Dracula [3, 5, 6, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Bastion [3, 2, 4, 7]                      76
+Dracula [3, 5, 6, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Leader [3, 4, 2, 7]                       76
+Dracula [3, 5, 6, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Shadow King [7, 1, 1, 7]                  76
+Dracula [3, 5, 6, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Bastion [3, 2, 4, 7]                      75
+Dracula [3, 5, 6, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Henry Pym [3, 4, 3, 7]                    76
+Dracula [3, 5, 6, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Leader [3, 4, 2, 7]                       75
+Dracula [3, 5, 6, 8]                 Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Shadow King [7, 1, 1, 7]                  75
+Lex Luthor  [3, 4, 3, 8]             Malebolgia [7, 4, 6, 8]              Mr. Fantastic [2, 5, 2, 8] (draw 3)  Bastion [3, 2, 4, 7]                      76
+Lex Luthor  [3, 4, 3, 8]             Malebolgia [7, 4, 6, 8]              Mr. Fantastic [2, 5, 2, 8] (draw 3)  Leader [3, 4, 2, 7]                       76
+Lex Luthor  [3, 4, 3, 8]             Malebolgia [7, 4, 6, 8]              Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shadow King [7, 1, 1, 7]                  76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Backlash, Future [6, 4, 3, 7]             76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Bastion [3, 2, 4, 7]                      72
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Batman  [2, 7, 4, 7]                      76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Beast [2, 5, 6, 7]                        76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Black King [3, 3, 6, 7]                   75
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Brainiac  [8, 1, 4, 7]                    76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Cerebro [6, 3, 3, 8]                      76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Dark Beast  [1, 6, 5, 7]                  75
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Doctor Doom [5, 3, 4, 8]                  76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Doctor Octopus [2, 5, 6, 7]               76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Donald Pierce [4, 2, 6, 7]                75
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Henry Pym [3, 4, 3, 7]                    73
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Iron Man: Original Armor [4, 3, 5, 7]     75
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Joker  [4, 5, 2, 7]                       74
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Leader [3, 4, 2, 7]                       72
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Mister Miracle  [3, 5, 3, 7]              74
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Professor X [8, 2, 1, 7]                  74
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Ra'S Al Ghul  [3, 7, 3, 7]                76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Red Skull [3, 5, 4, 7]                    75
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Riddler  [3, 5, 3, 7]                     74
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Robin  [3, 6, 2, 7]                       74
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Shadow King [7, 1, 1, 7]                  72
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Shi'Ar [5, 4, 3, 8]                       76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Trickster [6, 5, 1, 7]                    75
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Backlash, Future [6, 4, 3, 7]             76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Bastion [3, 2, 4, 7]                      72
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Batman  [2, 7, 4, 7]                      76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Beast [2, 5, 6, 7]                        76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Black King [3, 3, 6, 7]                   75
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Brainiac  [8, 1, 4, 7]                    76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Cerebro [6, 3, 3, 8]                      76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Dark Beast  [1, 6, 5, 7]                  75
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Doctor Doom [5, 3, 4, 8]                  76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Doctor Octopus [2, 5, 6, 7]               76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Donald Pierce [4, 2, 6, 7]                75
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Henry Pym [3, 4, 3, 7]                    73
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Iron Man: Original Armor [4, 3, 5, 7]     75
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Joker  [4, 5, 2, 7]                       74
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Leader [3, 4, 2, 7]                       72
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Mister Miracle  [3, 5, 3, 7]              74
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Professor X [8, 2, 1, 7]                  74
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Ra'S Al Ghul  [3, 7, 3, 7]                76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Red Skull [3, 5, 4, 7]                    75
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Riddler  [3, 5, 3, 7]                     74
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Robin  [3, 6, 2, 7]                       74
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Shadow King [7, 1, 1, 7]                  72
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Shi'Ar [5, 4, 3, 8]                       76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Trickster [6, 5, 1, 7]                    75
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Backlash, Future [6, 4, 3, 7]             75
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Bastion [3, 2, 4, 7]                      71
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Batman  [2, 7, 4, 7]                      75
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Beast [2, 5, 6, 7]                        75
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Black King [3, 3, 6, 7]                   74
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Brainiac  [8, 1, 4, 7]                    75
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Cerebro [6, 3, 3, 8]                      75
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Dark Beast  [1, 6, 5, 7]                  74
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Doctor Doom [5, 3, 4, 8]                  75
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Doctor Doom 2099 [5, 3, 6, 7]             76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Doctor Octopus [2, 5, 6, 7]               75
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Donald Pierce [4, 2, 6, 7]                74
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Grey King [6, 3, 5, 7]                    76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Hellfire Club [6, 4, 4, 7] (draw 3)       76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Henry Pym [3, 4, 3, 7]                    72
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Iron Man: Original Armor [4, 3, 5, 7]     74
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Joker  [4, 5, 2, 7]                       73
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Leader [3, 4, 2, 7]                       71
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Mister Miracle  [3, 5, 3, 7]              73
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Mr. Sinister [4, 5, 4, 8]                 76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Neron  [5, 2, 6, 8]                       76
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Professor X [8, 2, 1, 7]                  73
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Ra'S Al Ghul  [3, 7, 3, 7]                75
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Red Skull [3, 5, 4, 7]                    74
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Riddler  [3, 5, 3, 7]                     73
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Robin  [3, 6, 2, 7]                       73
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Shadow King [7, 1, 1, 7]                  71
+Lex Luthor  [3, 4, 3, 8]             Mr. Fantastic [2, 5, 2, 8] (draw 3)  Shi'Ar [5, 4, 3, 8]                  Trickster [6, 5, 1, 7]                    74
+Lex Luthor  [3, 4, 3, 8]             Mr. Sinister [4, 5, 4, 8]            Shi'Ar [5, 4, 3, 8]                  Mr. Fantastic [2, 5, 2, 8] (draw 3)       76
+Lex Luthor  [3, 4, 3, 8]             Neron  [5, 2, 6, 8]                  Shi'Ar [5, 4, 3, 8]                  Mr. Fantastic [2, 5, 2, 8] (draw 3)       76
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Neron  [5, 2, 6, 8]                  Bastion [3, 2, 4, 7]                      75
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Neron  [5, 2, 6, 8]                  Henry Pym [3, 4, 3, 7]                    76
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Neron  [5, 2, 6, 8]                  Leader [3, 4, 2, 7]                       75
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Neron  [5, 2, 6, 8]                  Shadow King [7, 1, 1, 7]                  75
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Shi'Ar [5, 4, 3, 8]                  Bastion [3, 2, 4, 7]                      74
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Shi'Ar [5, 4, 3, 8]                  Henry Pym [3, 4, 3, 7]                    75
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Shi'Ar [5, 4, 3, 8]                  Joker  [4, 5, 2, 7]                       76
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Shi'Ar [5, 4, 3, 8]                  Leader [3, 4, 2, 7]                       74
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Shi'Ar [5, 4, 3, 8]                  Lex Luthor  [3, 4, 3, 8]                  76
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Shi'Ar [5, 4, 3, 8]                  Mister Miracle  [3, 5, 3, 7]              76
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Shi'Ar [5, 4, 3, 8]                  Professor X [8, 2, 1, 7]                  76
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Shi'Ar [5, 4, 3, 8]                  Riddler  [3, 5, 3, 7]                     76
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Shi'Ar [5, 4, 3, 8]                  Robin  [3, 6, 2, 7]                       76
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Mr. Sinister [4, 5, 4, 8]            Shi'Ar [5, 4, 3, 8]                  Shadow King [7, 1, 1, 7]                  74
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Shi'Ar [5, 4, 3, 8]                  Bastion [3, 2, 4, 7]                      74
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Shi'Ar [5, 4, 3, 8]                  Henry Pym [3, 4, 3, 7]                    75
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Shi'Ar [5, 4, 3, 8]                  Joker  [4, 5, 2, 7]                       76
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Shi'Ar [5, 4, 3, 8]                  Leader [3, 4, 2, 7]                       74
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Shi'Ar [5, 4, 3, 8]                  Lex Luthor  [3, 4, 3, 8]                  76
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Shi'Ar [5, 4, 3, 8]                  Mister Miracle  [3, 5, 3, 7]              76
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Shi'Ar [5, 4, 3, 8]                  Professor X [8, 2, 1, 7]                  76
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Shi'Ar [5, 4, 3, 8]                  Riddler  [3, 5, 3, 7]                     76
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Shi'Ar [5, 4, 3, 8]                  Robin  [3, 6, 2, 7]                       76
+Mr. Fantastic [2, 5, 2, 8] (draw 3)  Neron  [5, 2, 6, 8]                  Shi'Ar [5, 4, 3, 8]                  Shadow King [7, 1, 1, 7]                  74

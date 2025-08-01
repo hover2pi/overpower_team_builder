@@ -1,0 +1,265 @@
+Character 1                      Character 2                      Character 3                      Character 4                                                                 Total
+====================================================================================================================================================================================
+Darkseid  [6, 3, 8, 6]           Doomsday  [4, 6, 8, 1]           Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             76
+Darkseid  [6, 3, 8, 6]           Doomsday  [4, 6, 8, 1]           Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           76
+Darkseid  [6, 3, 8, 6]           Doomsday  [4, 6, 8, 1]           Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     76
+Darkseid  [6, 3, 8, 6]           Hulk [1, 3, 8, 6]                Thing [1, 5, 8, 3]               Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      76
+Darkseid  [6, 3, 8, 6]           Hulk [1, 3, 8, 6]                Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             75
+Darkseid  [6, 3, 8, 6]           Hulk [1, 3, 8, 6]                Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           75
+Darkseid  [6, 3, 8, 6]           Hulk [1, 3, 8, 6]                Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     75
+Darkseid  [6, 3, 8, 6]           Hulk [1, 3, 8, 6]                Thing [1, 5, 8, 3]               Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     76
+Darkseid  [6, 3, 8, 6]           Juggernaut [4, 5, 8, 2]          Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             76
+Darkseid  [6, 3, 8, 6]           Juggernaut [4, 5, 8, 2]          Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           76
+Darkseid  [6, 3, 8, 6]           Juggernaut [4, 5, 8, 2]          Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     76
+Darkseid  [6, 3, 8, 6]           Morlocks [6, 3, 8, 2]            Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             76
+Darkseid  [6, 3, 8, 6]           Morlocks [6, 3, 8, 2]            Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           76
+Darkseid  [6, 3, 8, 6]           Morlocks [6, 3, 8, 2]            Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     76
+Darkseid  [6, 3, 8, 6]           Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             76
+Darkseid  [6, 3, 8, 6]           Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           76
+Darkseid  [6, 3, 8, 6]           Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     76
+Doomsday  [4, 6, 8, 1]           Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      76
+Doomsday  [4, 6, 8, 1]           Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Metallo  [6, 2, 7, 2] (Switch places with reserve)                             75
+Doomsday  [4, 6, 8, 1]           Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                She Hulk [1, 4, 7, 5] (Public defender from reserve)                           75
+Doomsday  [4, 6, 8, 1]           Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     75
+Doomsday  [4, 6, 8, 1]           Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     76
+Doomsday  [4, 6, 8, 1]           Heroes For Hire [2, 7, 8, 4]     Juggernaut [4, 5, 8, 2]          Metallo  [6, 2, 7, 2] (Switch places with reserve)                             76
+Doomsday  [4, 6, 8, 1]           Heroes For Hire [2, 7, 8, 4]     Juggernaut [4, 5, 8, 2]          She Hulk [1, 4, 7, 5] (Public defender from reserve)                           76
+Doomsday  [4, 6, 8, 1]           Heroes For Hire [2, 7, 8, 4]     Juggernaut [4, 5, 8, 2]          Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     76
+Doomsday  [4, 6, 8, 1]           Heroes For Hire [2, 7, 8, 4]     Morlocks [6, 3, 8, 2]            Metallo  [6, 2, 7, 2] (Switch places with reserve)                             76
+Doomsday  [4, 6, 8, 1]           Heroes For Hire [2, 7, 8, 4]     Morlocks [6, 3, 8, 2]            She Hulk [1, 4, 7, 5] (Public defender from reserve)                           76
+Doomsday  [4, 6, 8, 1]           Heroes For Hire [2, 7, 8, 4]     Morlocks [6, 3, 8, 2]            Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     76
+Doomsday  [4, 6, 8, 1]           Heroes For Hire [2, 7, 8, 4]     Savage Dragon [2, 5, 8, 4]       Metallo  [6, 2, 7, 2] (Switch places with reserve)                             76
+Doomsday  [4, 6, 8, 1]           Heroes For Hire [2, 7, 8, 4]     Savage Dragon [2, 5, 8, 4]       She Hulk [1, 4, 7, 5] (Public defender from reserve)                           76
+Doomsday  [4, 6, 8, 1]           Heroes For Hire [2, 7, 8, 4]     Savage Dragon [2, 5, 8, 4]       Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     76
+Doomsday  [4, 6, 8, 1]           Heroes For Hire [2, 7, 8, 4]     Thing [1, 5, 8, 3]               Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      75
+Doomsday  [4, 6, 8, 1]           Heroes For Hire [2, 7, 8, 4]     Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             74
+Doomsday  [4, 6, 8, 1]           Heroes For Hire [2, 7, 8, 4]     Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           74
+Doomsday  [4, 6, 8, 1]           Heroes For Hire [2, 7, 8, 4]     Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     74
+Doomsday  [4, 6, 8, 1]           Heroes For Hire [2, 7, 8, 4]     Thing [1, 5, 8, 3]               Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     75
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      74
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Metallo  [6, 2, 7, 2] (Switch places with reserve)                             73
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          She Hulk [1, 4, 7, 5] (Public defender from reserve)                           73
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     73
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     74
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      74
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            Metallo  [6, 2, 7, 2] (Switch places with reserve)                             73
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            She Hulk [1, 4, 7, 5] (Public defender from reserve)                           73
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     73
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     74
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Namor: Sub-Mariner [3, 5, 8, 4]  Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      75
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Namor: Sub-Mariner [3, 5, 8, 4]  Metallo  [6, 2, 7, 2] (Switch places with reserve)                             74
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Namor: Sub-Mariner [3, 5, 8, 4]  She Hulk [1, 4, 7, 5] (Public defender from reserve)                           74
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Namor: Sub-Mariner [3, 5, 8, 4]  Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     74
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Namor: Sub-Mariner [3, 5, 8, 4]  Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     75
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Savage Dragon [2, 5, 8, 4]       Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      74
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Savage Dragon [2, 5, 8, 4]       Metallo  [6, 2, 7, 2] (Switch places with reserve)                             73
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Savage Dragon [2, 5, 8, 4]       She Hulk [1, 4, 7, 5] (Public defender from reserve)                           73
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Savage Dragon [2, 5, 8, 4]       Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     73
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Savage Dragon [2, 5, 8, 4]       Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     74
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Thing [1, 5, 8, 3]               Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      72
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             71
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           71
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     71
+Doomsday  [4, 6, 8, 1]           Hulk [1, 3, 8, 6]                Thing [1, 5, 8, 3]               Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     72
+Doomsday  [4, 6, 8, 1]           Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      75
+Doomsday  [4, 6, 8, 1]           Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Metallo  [6, 2, 7, 2] (Switch places with reserve)                             74
+Doomsday  [4, 6, 8, 1]           Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            She Hulk [1, 4, 7, 5] (Public defender from reserve)                           74
+Doomsday  [4, 6, 8, 1]           Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     74
+Doomsday  [4, 6, 8, 1]           Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     75
+Doomsday  [4, 6, 8, 1]           Juggernaut [4, 5, 8, 2]          Namor: Sub-Mariner [3, 5, 8, 4]  Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      76
+Doomsday  [4, 6, 8, 1]           Juggernaut [4, 5, 8, 2]          Namor: Sub-Mariner [3, 5, 8, 4]  Metallo  [6, 2, 7, 2] (Switch places with reserve)                             75
+Doomsday  [4, 6, 8, 1]           Juggernaut [4, 5, 8, 2]          Namor: Sub-Mariner [3, 5, 8, 4]  She Hulk [1, 4, 7, 5] (Public defender from reserve)                           75
+Doomsday  [4, 6, 8, 1]           Juggernaut [4, 5, 8, 2]          Namor: Sub-Mariner [3, 5, 8, 4]  Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     75
+Doomsday  [4, 6, 8, 1]           Juggernaut [4, 5, 8, 2]          Namor: Sub-Mariner [3, 5, 8, 4]  Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     76
+Doomsday  [4, 6, 8, 1]           Juggernaut [4, 5, 8, 2]          Savage Dragon [2, 5, 8, 4]       Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      75
+Doomsday  [4, 6, 8, 1]           Juggernaut [4, 5, 8, 2]          Savage Dragon [2, 5, 8, 4]       Metallo  [6, 2, 7, 2] (Switch places with reserve)                             74
+Doomsday  [4, 6, 8, 1]           Juggernaut [4, 5, 8, 2]          Savage Dragon [2, 5, 8, 4]       She Hulk [1, 4, 7, 5] (Public defender from reserve)                           74
+Doomsday  [4, 6, 8, 1]           Juggernaut [4, 5, 8, 2]          Savage Dragon [2, 5, 8, 4]       Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     74
+Doomsday  [4, 6, 8, 1]           Juggernaut [4, 5, 8, 2]          Savage Dragon [2, 5, 8, 4]       Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     75
+Doomsday  [4, 6, 8, 1]           Juggernaut [4, 5, 8, 2]          Thing [1, 5, 8, 3]               Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      73
+Doomsday  [4, 6, 8, 1]           Juggernaut [4, 5, 8, 2]          Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             72
+Doomsday  [4, 6, 8, 1]           Juggernaut [4, 5, 8, 2]          Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           72
+Doomsday  [4, 6, 8, 1]           Juggernaut [4, 5, 8, 2]          Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     72
+Doomsday  [4, 6, 8, 1]           Juggernaut [4, 5, 8, 2]          Thing [1, 5, 8, 3]               Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     73
+Doomsday  [4, 6, 8, 1]           Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      76
+Doomsday  [4, 6, 8, 1]           Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  Metallo  [6, 2, 7, 2] (Switch places with reserve)                             75
+Doomsday  [4, 6, 8, 1]           Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  She Hulk [1, 4, 7, 5] (Public defender from reserve)                           75
+Doomsday  [4, 6, 8, 1]           Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     75
+Doomsday  [4, 6, 8, 1]           Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     76
+Doomsday  [4, 6, 8, 1]           Morlocks [6, 3, 8, 2]            Savage Dragon [2, 5, 8, 4]       Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      75
+Doomsday  [4, 6, 8, 1]           Morlocks [6, 3, 8, 2]            Savage Dragon [2, 5, 8, 4]       Metallo  [6, 2, 7, 2] (Switch places with reserve)                             74
+Doomsday  [4, 6, 8, 1]           Morlocks [6, 3, 8, 2]            Savage Dragon [2, 5, 8, 4]       She Hulk [1, 4, 7, 5] (Public defender from reserve)                           74
+Doomsday  [4, 6, 8, 1]           Morlocks [6, 3, 8, 2]            Savage Dragon [2, 5, 8, 4]       Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     74
+Doomsday  [4, 6, 8, 1]           Morlocks [6, 3, 8, 2]            Savage Dragon [2, 5, 8, 4]       Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     75
+Doomsday  [4, 6, 8, 1]           Morlocks [6, 3, 8, 2]            Thing [1, 5, 8, 3]               Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      73
+Doomsday  [4, 6, 8, 1]           Morlocks [6, 3, 8, 2]            Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             72
+Doomsday  [4, 6, 8, 1]           Morlocks [6, 3, 8, 2]            Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           72
+Doomsday  [4, 6, 8, 1]           Morlocks [6, 3, 8, 2]            Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     72
+Doomsday  [4, 6, 8, 1]           Morlocks [6, 3, 8, 2]            Thing [1, 5, 8, 3]               Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     73
+Doomsday  [4, 6, 8, 1]           Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      76
+Doomsday  [4, 6, 8, 1]           Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       Metallo  [6, 2, 7, 2] (Switch places with reserve)                             75
+Doomsday  [4, 6, 8, 1]           Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       She Hulk [1, 4, 7, 5] (Public defender from reserve)                           75
+Doomsday  [4, 6, 8, 1]           Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     75
+Doomsday  [4, 6, 8, 1]           Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     76
+Doomsday  [4, 6, 8, 1]           Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      74
+Doomsday  [4, 6, 8, 1]           Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             73
+Doomsday  [4, 6, 8, 1]           Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           73
+Doomsday  [4, 6, 8, 1]           Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     73
+Doomsday  [4, 6, 8, 1]           Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     74
+Doomsday  [4, 6, 8, 1]           Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      73
+Doomsday  [4, 6, 8, 1]           Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             72
+Doomsday  [4, 6, 8, 1]           Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           72
+Doomsday  [4, 6, 8, 1]           Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     72
+Doomsday  [4, 6, 8, 1]           Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     73
+Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      76
+Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Metallo  [6, 2, 7, 2] (Switch places with reserve)                             75
+Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          She Hulk [1, 4, 7, 5] (Public defender from reserve)                           75
+Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     75
+Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     76
+Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      76
+Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            Metallo  [6, 2, 7, 2] (Switch places with reserve)                             75
+Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            She Hulk [1, 4, 7, 5] (Public defender from reserve)                           75
+Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     75
+Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     76
+Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Namor: Sub-Mariner [3, 5, 8, 4]  Metallo  [6, 2, 7, 2] (Switch places with reserve)                             76
+Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Namor: Sub-Mariner [3, 5, 8, 4]  She Hulk [1, 4, 7, 5] (Public defender from reserve)                           76
+Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Namor: Sub-Mariner [3, 5, 8, 4]  Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     76
+Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Savage Dragon [2, 5, 8, 4]       Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      76
+Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Savage Dragon [2, 5, 8, 4]       Metallo  [6, 2, 7, 2] (Switch places with reserve)                             75
+Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Savage Dragon [2, 5, 8, 4]       She Hulk [1, 4, 7, 5] (Public defender from reserve)                           75
+Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Savage Dragon [2, 5, 8, 4]       Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     75
+Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Savage Dragon [2, 5, 8, 4]       Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     76
+Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Thing [1, 5, 8, 3]               Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      74
+Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             73
+Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           73
+Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     73
+Heroes For Hire [2, 7, 8, 4]     Hulk [1, 3, 8, 6]                Thing [1, 5, 8, 3]               Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     74
+Heroes For Hire [2, 7, 8, 4]     Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Metallo  [6, 2, 7, 2] (Switch places with reserve)                             76
+Heroes For Hire [2, 7, 8, 4]     Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            She Hulk [1, 4, 7, 5] (Public defender from reserve)                           76
+Heroes For Hire [2, 7, 8, 4]     Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     76
+Heroes For Hire [2, 7, 8, 4]     Juggernaut [4, 5, 8, 2]          Savage Dragon [2, 5, 8, 4]       Metallo  [6, 2, 7, 2] (Switch places with reserve)                             76
+Heroes For Hire [2, 7, 8, 4]     Juggernaut [4, 5, 8, 2]          Savage Dragon [2, 5, 8, 4]       She Hulk [1, 4, 7, 5] (Public defender from reserve)                           76
+Heroes For Hire [2, 7, 8, 4]     Juggernaut [4, 5, 8, 2]          Savage Dragon [2, 5, 8, 4]       Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     76
+Heroes For Hire [2, 7, 8, 4]     Juggernaut [4, 5, 8, 2]          Thing [1, 5, 8, 3]               Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      75
+Heroes For Hire [2, 7, 8, 4]     Juggernaut [4, 5, 8, 2]          Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             74
+Heroes For Hire [2, 7, 8, 4]     Juggernaut [4, 5, 8, 2]          Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           74
+Heroes For Hire [2, 7, 8, 4]     Juggernaut [4, 5, 8, 2]          Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     74
+Heroes For Hire [2, 7, 8, 4]     Juggernaut [4, 5, 8, 2]          Thing [1, 5, 8, 3]               Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     75
+Heroes For Hire [2, 7, 8, 4]     Morlocks [6, 3, 8, 2]            Savage Dragon [2, 5, 8, 4]       Metallo  [6, 2, 7, 2] (Switch places with reserve)                             76
+Heroes For Hire [2, 7, 8, 4]     Morlocks [6, 3, 8, 2]            Savage Dragon [2, 5, 8, 4]       She Hulk [1, 4, 7, 5] (Public defender from reserve)                           76
+Heroes For Hire [2, 7, 8, 4]     Morlocks [6, 3, 8, 2]            Savage Dragon [2, 5, 8, 4]       Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     76
+Heroes For Hire [2, 7, 8, 4]     Morlocks [6, 3, 8, 2]            Thing [1, 5, 8, 3]               Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      75
+Heroes For Hire [2, 7, 8, 4]     Morlocks [6, 3, 8, 2]            Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             74
+Heroes For Hire [2, 7, 8, 4]     Morlocks [6, 3, 8, 2]            Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           74
+Heroes For Hire [2, 7, 8, 4]     Morlocks [6, 3, 8, 2]            Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     74
+Heroes For Hire [2, 7, 8, 4]     Morlocks [6, 3, 8, 2]            Thing [1, 5, 8, 3]               Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     75
+Heroes For Hire [2, 7, 8, 4]     Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      76
+Heroes For Hire [2, 7, 8, 4]     Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             75
+Heroes For Hire [2, 7, 8, 4]     Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           75
+Heroes For Hire [2, 7, 8, 4]     Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     75
+Heroes For Hire [2, 7, 8, 4]     Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     76
+Heroes For Hire [2, 7, 8, 4]     Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      75
+Heroes For Hire [2, 7, 8, 4]     Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             74
+Heroes For Hire [2, 7, 8, 4]     Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           74
+Heroes For Hire [2, 7, 8, 4]     Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     74
+Heroes For Hire [2, 7, 8, 4]     Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     75
+Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      74
+Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Metallo  [6, 2, 7, 2] (Switch places with reserve)                             73
+Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            She Hulk [1, 4, 7, 5] (Public defender from reserve)                           73
+Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     73
+Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     74
+Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Namor: Sub-Mariner [3, 5, 8, 4]  Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      75
+Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Namor: Sub-Mariner [3, 5, 8, 4]  Metallo  [6, 2, 7, 2] (Switch places with reserve)                             74
+Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Namor: Sub-Mariner [3, 5, 8, 4]  She Hulk [1, 4, 7, 5] (Public defender from reserve)                           74
+Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Namor: Sub-Mariner [3, 5, 8, 4]  Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     74
+Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Namor: Sub-Mariner [3, 5, 8, 4]  Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     75
+Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Savage Dragon [2, 5, 8, 4]       Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      74
+Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Savage Dragon [2, 5, 8, 4]       Metallo  [6, 2, 7, 2] (Switch places with reserve)                             73
+Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Savage Dragon [2, 5, 8, 4]       She Hulk [1, 4, 7, 5] (Public defender from reserve)                           73
+Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Savage Dragon [2, 5, 8, 4]       Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     73
+Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Savage Dragon [2, 5, 8, 4]       Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     74
+Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Thing [1, 5, 8, 3]               Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      72
+Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             71
+Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           71
+Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     71
+Hulk [1, 3, 8, 6]                Juggernaut [4, 5, 8, 2]          Thing [1, 5, 8, 3]               Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     72
+Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      75
+Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  Metallo  [6, 2, 7, 2] (Switch places with reserve)                             74
+Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  She Hulk [1, 4, 7, 5] (Public defender from reserve)                           74
+Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     74
+Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     75
+Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            Savage Dragon [2, 5, 8, 4]       Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      74
+Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            Savage Dragon [2, 5, 8, 4]       Metallo  [6, 2, 7, 2] (Switch places with reserve)                             73
+Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            Savage Dragon [2, 5, 8, 4]       She Hulk [1, 4, 7, 5] (Public defender from reserve)                           73
+Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            Savage Dragon [2, 5, 8, 4]       Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     73
+Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            Savage Dragon [2, 5, 8, 4]       Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     74
+Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            Thing [1, 5, 8, 3]               Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      72
+Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             71
+Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           71
+Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     71
+Hulk [1, 3, 8, 6]                Morlocks [6, 3, 8, 2]            Thing [1, 5, 8, 3]               Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     72
+Hulk [1, 3, 8, 6]                Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      75
+Hulk [1, 3, 8, 6]                Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       Metallo  [6, 2, 7, 2] (Switch places with reserve)                             74
+Hulk [1, 3, 8, 6]                Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       She Hulk [1, 4, 7, 5] (Public defender from reserve)                           74
+Hulk [1, 3, 8, 6]                Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     74
+Hulk [1, 3, 8, 6]                Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     75
+Hulk [1, 3, 8, 6]                Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      73
+Hulk [1, 3, 8, 6]                Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             72
+Hulk [1, 3, 8, 6]                Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           72
+Hulk [1, 3, 8, 6]                Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     72
+Hulk [1, 3, 8, 6]                Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     73
+Hulk [1, 3, 8, 6]                Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      72
+Hulk [1, 3, 8, 6]                Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             71
+Hulk [1, 3, 8, 6]                Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           71
+Hulk [1, 3, 8, 6]                Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     71
+Hulk [1, 3, 8, 6]                Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     72
+Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      76
+Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  Metallo  [6, 2, 7, 2] (Switch places with reserve)                             75
+Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  She Hulk [1, 4, 7, 5] (Public defender from reserve)                           75
+Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     75
+Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     76
+Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Savage Dragon [2, 5, 8, 4]       Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      75
+Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Savage Dragon [2, 5, 8, 4]       Metallo  [6, 2, 7, 2] (Switch places with reserve)                             74
+Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Savage Dragon [2, 5, 8, 4]       She Hulk [1, 4, 7, 5] (Public defender from reserve)                           74
+Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Savage Dragon [2, 5, 8, 4]       Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     74
+Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Savage Dragon [2, 5, 8, 4]       Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     75
+Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Thing [1, 5, 8, 3]               Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      73
+Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             72
+Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           72
+Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     72
+Juggernaut [4, 5, 8, 2]          Morlocks [6, 3, 8, 2]            Thing [1, 5, 8, 3]               Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     73
+Juggernaut [4, 5, 8, 2]          Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      76
+Juggernaut [4, 5, 8, 2]          Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       Metallo  [6, 2, 7, 2] (Switch places with reserve)                             75
+Juggernaut [4, 5, 8, 2]          Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       She Hulk [1, 4, 7, 5] (Public defender from reserve)                           75
+Juggernaut [4, 5, 8, 2]          Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     75
+Juggernaut [4, 5, 8, 2]          Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     76
+Juggernaut [4, 5, 8, 2]          Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      74
+Juggernaut [4, 5, 8, 2]          Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             73
+Juggernaut [4, 5, 8, 2]          Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           73
+Juggernaut [4, 5, 8, 2]          Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     73
+Juggernaut [4, 5, 8, 2]          Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     74
+Juggernaut [4, 5, 8, 2]          Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      73
+Juggernaut [4, 5, 8, 2]          Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             72
+Juggernaut [4, 5, 8, 2]          Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           72
+Juggernaut [4, 5, 8, 2]          Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     72
+Juggernaut [4, 5, 8, 2]          Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     73
+Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      76
+Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       Metallo  [6, 2, 7, 2] (Switch places with reserve)                             75
+Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       She Hulk [1, 4, 7, 5] (Public defender from reserve)                           75
+Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     75
+Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     76
+Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      74
+Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             73
+Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           73
+Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     73
+Morlocks [6, 3, 8, 2]            Namor: Sub-Mariner [3, 5, 8, 4]  Thing [1, 5, 8, 3]               Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     74
+Morlocks [6, 3, 8, 2]            Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      73
+Morlocks [6, 3, 8, 2]            Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             72
+Morlocks [6, 3, 8, 2]            Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           72
+Morlocks [6, 3, 8, 2]            Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     72
+Morlocks [6, 3, 8, 2]            Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     73
+Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Absorbing Man [5, 5, 7, 1] (Molecular Mimic from reserve)                      74
+Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Metallo  [6, 2, 7, 2] (Switch places with reserve)                             73
+Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               She Hulk [1, 4, 7, 5] (Public defender from reserve)                           73
+Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Strong Guy [3, 4, 7, 3] (Pile it On from reserve; body guard from reserve)     73
+Namor: Sub-Mariner [3, 5, 8, 4]  Savage Dragon [2, 5, 8, 4]       Thing [1, 5, 8, 3]               Thunderbird [2, 6, 7, 3] (Ultimate Sacrifice from reserve)                     74
