@@ -11,7 +11,6 @@ To run:
     make_overpower_teams(csvfile, 'Strength')
 """
 
-from itertools import combinations
 import csv
 
 
@@ -41,13 +40,13 @@ def make_overpower_teams(stat_name, csvfile='data/characters.csv', save=False):
     chars = import_characters(csvfile)
     
     # Build the teams
-    valid_teams = build_valid_teams(chars, stat_name.capitalize())
+    valid_teams = build_valid_teams(chars, stat_name.capitalize(), show=False)
     
     # Print and/or save to CSV file
     show_teams_table(valid_teams, chars, save=save, filename=f"teams/{stat_name}_teams.txt")
 
 
-def import_characters(file):
+def import_characters(file='data/characters.csv'):
     """
     Imports data from a CSV file with columns 'Character', 'Energy', 'Fighting', 'Strength', 'Intellect', 'Threat', and 'Special'
     and loads it into a dict
@@ -81,21 +80,26 @@ def import_characters(file):
     return chars
 
 
-def build_valid_teams(chars, stat_name):
+from itertools import combinations
+
+
+def build_valid_teams(chars, stat_name, include=None, low_stat=7, show=True):
     """
-    Builds all valid 16-rank teams from the given character dictionary in the specified stat
-    
+    Builds all valid 16-rank teams from the given character dictionary in the specified stat.
+
     Parameters
     ----------
     chars: dict
         The dictionary of characters
     stat_name: str
         The primary stat to use, ['Energy', 'Fighting', 'Strength', 'Intellect']
-    
+    include: list or set of str, optional
+        Character names that must be included in every team
+
     Returns
     -------
-    dict
-        The dict of characters and stats
+    list of tuples
+        Each tuple contains (team_names, total_stat_sum)
     """
     stat_index_map = {
         "Energy": 0,
@@ -108,11 +112,11 @@ def build_valid_teams(chars, stat_name):
         raise ValueError(f"Invalid stat name '{stat_name}'. Choose from: {list(stat_index_map)}")
 
     stat_idx = stat_index_map[stat_name]
+    include = set(include) if include else set()
     valid_teams = []
 
-    # Filter character list by stat values
     with_8 = [(name, stats) for name, stats in chars.items() if stats[stat_idx] == 8]
-    with_7_or_more = [(name, stats) for name, stats in chars.items() if stats[stat_idx] >= 7]
+    with_7_or_more = [(name, stats) for name, stats in chars.items() if stats[stat_idx] >= low_stat]
 
     for trio in combinations(with_8, 3):
         trio_names = {c[0] for c in trio}
@@ -127,17 +131,25 @@ def build_valid_teams(chars, stat_name):
             if total > 76:
                 continue
 
-            has_special = any(char[1][5].strip() != '' for char in team)
-            if not has_special:
+            specials = [char[1][5].strip() != '' for char in team]
+            if not any(specials):
+                continue
+
+            team_names = {char[0] for char in team}
+            if not include.issubset(team_names):
                 continue
 
             names = tuple(char[0] for char in team)
             valid_teams.append((names, total))
 
-    return valid_teams
+    if show:
+        show_teams_table(valid_teams, chars, save=False, name=stat_name)
+
+    else:
+        return valid_teams
 
 
-def show_teams_table(teams, chars, save=False, filename='valid_teams.csv'):
+def show_teams_table(teams, chars, save=False, filename='valid_teams.csv', name='potential'):
     """
     Print or save teams to a CSV table
     
@@ -156,10 +168,10 @@ def show_teams_table(teams, chars, save=False, filename='valid_teams.csv'):
     formatted_teams = []
     for team, total in teams:
         row = []
-        for name in team:
-            stats = chars[name][:4]
-            special = chars[name][5].strip()
-            display_name = name.replace('_', ' ').title().replace('(V)', '').replace('(H)', '')
+        for char in team:
+            stats = chars[char][:4]
+            special = chars[char][5].strip()
+            display_name = char.replace('_', ' ').title().replace('(V)', '').replace('(H)', '')
             stat_str = f"[{', '.join(str(s) for s in stats)}]"
             if special:
                 display_name += f" {stat_str} ({special})"
@@ -205,3 +217,4 @@ def show_teams_table(teams, chars, save=False, filename='valid_teams.csv'):
         print(f"✅ Exported {len(teams)} teams to '{filename}'.")
     else:
         print(output)
+        print(f"\n{len(teams)} {name} teams found!")
