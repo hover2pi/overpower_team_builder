@@ -12,6 +12,8 @@ To run:
 """
 
 import csv
+from itertools import combinations
+from collections import Counter
 
 
 def make_all_teams():
@@ -82,8 +84,7 @@ def import_characters(file='data/characters.csv'):
 
 from itertools import combinations
 
-
-def build_valid_teams(chars, stat_name, include=None, low_stat=7, show=True):
+def build_valid_teams(chars, stat_name, include=None, stats=[8, 8, 8, 7], show=True):
     """
     Builds all valid 16-rank teams from the given character dictionary in the specified stat.
 
@@ -113,40 +114,117 @@ def build_valid_teams(chars, stat_name, include=None, low_stat=7, show=True):
 
     stat_idx = stat_index_map[stat_name]
     include = set(include) if include else set()
+
+    if len(stats) != 4:
+        raise ValueError("minimum_levels must be a list of 4 integers.")
+
+    required = Counter(stats)
+
+    with_8 = [c for c in chars.items() if c[1][stat_idx] == 8]
+    with_7 = [c for c in chars.items() if c[1][stat_idx] == 7]
+    with_6 = [c for c in chars.items() if c[1][stat_idx] == 6]
+
     valid_teams = []
 
-    with_8 = [(name, stats) for name, stats in chars.items() if stats[stat_idx] == 8]
-    with_7_or_more = [(name, stats) for name, stats in chars.items() if stats[stat_idx] >= low_stat]
+    for eights in combinations(with_8, required[8]):
+        e8_names = {c[0] for c in eights}
+        pool_7 = [c for c in with_7 if c[0] not in e8_names]
+        if required[7] > len(pool_7):
+            continue
 
-    for trio in combinations(with_8, 3):
-        trio_names = {c[0] for c in trio}
-
-        for fourth in with_7_or_more:
-            if fourth[0] in trio_names:
+        for sevens in combinations(pool_7, required[7]):
+            e7_names = e8_names | {c[0] for c in sevens}
+            pool_6 = [c for c in with_6 if c[0] not in e7_names]
+            if required[6] > len(pool_6):
                 continue
 
-            team = list(trio) + [fourth]
+            for sixes in combinations(pool_6, required[6]):
+                team = list(eights) + list(sevens) + list(sixes)
+                names = [c[0] for c in team]
 
-            total = sum(sum(char[1][:4]) for char in team)
-            if total > 76:
-                continue
+                if not include.issubset(names):
+                    continue
 
-            specials = [char[1][5].strip() != '' for char in team]
-            if not any(specials):
-                continue
+                total = sum(sum(char[1][:4]) for char in team)
+                if total > 76:
+                    continue
 
-            team_names = {char[0] for char in team}
-            if not include.issubset(team_names):
-                continue
+                if not any(char[1][5].strip() != '' for char in team):
+                    continue
 
-            names = tuple(char[0] for char in team)
-            valid_teams.append((names, total))
+                valid_teams.append((tuple(names), total))
 
     if show:
         show_teams_table(valid_teams, chars, save=False, name=stat_name)
 
     else:
         return valid_teams
+
+
+# def build_valid_teams(chars, stat_name, include=None, low_stat=7, show=True):
+#     """
+#     Builds all valid 16-rank teams from the given character dictionary in the specified stat.
+#
+#     Parameters
+#     ----------
+#     chars: dict
+#         The dictionary of characters
+#     stat_name: str
+#         The primary stat to use, ['Energy', 'Fighting', 'Strength', 'Intellect']
+#     include: list or set of str, optional
+#         Character names that must be included in every team
+#
+#     Returns
+#     -------
+#     list of tuples
+#         Each tuple contains (team_names, total_stat_sum)
+#     """
+#     stat_index_map = {
+#         "Energy": 0,
+#         "Fighting": 1,
+#         "Strength": 2,
+#         "Intellect": 3
+#     }
+#
+#     if stat_name not in stat_index_map:
+#         raise ValueError(f"Invalid stat name '{stat_name}'. Choose from: {list(stat_index_map)}")
+#
+#     stat_idx = stat_index_map[stat_name]
+#     include = set(include) if include else set()
+#     valid_teams = []
+#
+#     with_8 = [(name, stats) for name, stats in chars.items() if stats[stat_idx] == 8]
+#     with_7_or_more = [(name, stats) for name, stats in chars.items() if stats[stat_idx] >= low_stat]
+#
+#     for trio in combinations(with_8, 3):
+#         trio_names = {c[0] for c in trio}
+#
+#         for fourth in with_7_or_more:
+#             if fourth[0] in trio_names:
+#                 continue
+#
+#             team = list(trio) + [fourth]
+#
+#             total = sum(sum(char[1][:4]) for char in team)
+#             if total > 76:
+#                 continue
+#
+#             specials = [char[1][5].strip() != '' for char in team]
+#             if not any(specials):
+#                 continue
+#
+#             team_names = {char[0] for char in team}
+#             if not include.issubset(team_names):
+#                 continue
+#
+#             names = tuple(char[0] for char in team)
+#             valid_teams.append((names, total))
+#
+#     if show:
+#         show_teams_table(valid_teams, chars, save=False, name=stat_name)
+#
+#     else:
+#         return valid_teams
 
 
 def show_teams_table(teams, chars, save=False, filename='valid_teams.csv', name='potential'):
