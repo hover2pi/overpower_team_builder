@@ -12,8 +12,82 @@ To run:
 """
 
 import csv
-from itertools import combinations
 from collections import Counter
+import urllib.parse
+import urllib.parse
+import urllib.parse
+import tempfile
+import webbrowser
+import urllib.parse
+from html import escape
+
+
+def display_teams_with_links(teams, chars):
+    """
+    Displays valid teams in an HTML table with clickable character names and stats.
+    Opens the HTML page in the default web browser.
+
+    Parameters
+    ----------
+    teams : list of tuples
+        Each tuple is (character_names, total_stat_sum)
+    chars : dict
+        Dictionary of character stats {name: [F, E, S, I, total, ...]}
+    """
+    html = """
+    <html>
+    <head>
+        <title>Valid Teams</title>
+        <style>
+            body { font-family: Arial, sans-serif; }
+            table { border-collapse: collapse; margin: 20px; line-height: 1.5em; }
+            th, td { border: 1px solid #ccc; padding: 8px; text-align: center; }
+            td a { text-decoration: none; font-weight: bold; }
+            .stat-line { font-size: 0.9em; color: #555; }
+        </style>
+    </head>
+    <body>
+    <h2>Valid Teams</h2>
+    <table>
+        <tr>
+            <th>#</th><th>Character 1</th><th>Character 2</th><th>Character 3</th><th>Character 4</th><th>Total</th>
+        </tr>
+    """.replace('Teams<', f'Teams ({len(teams)})<')
+    for idx, (names, total) in enumerate(teams):
+        html += f"<tr><td>{idx + 1}</td>"
+        for name in names:
+            stats = chars[name]
+            stat_line = f"[{stats[0]}, {stats[1]}, {stats[2]}, {stats[3]}]"  # [E, F, S, I]
+            special_line = f"<br>{stats[-1]}" if stats[-1] != '' else ''
+            url = f"https://www.ccgtrader.net/search?g=OVP&page=1&q={urllib.parse.quote(name)}"
+            html += f"<td><a href='{url}' target='_blank'>{escape(name)}</a><br><span class='stat-line'>{stat_line}{special_line}</span></td>"
+        html += f"<td>{total}</td></tr>"
+
+    html += """
+    </table>
+    </body>
+    </html>
+    """
+
+    # Write HTML to a temp file and open
+    with tempfile.NamedTemporaryFile("w", delete=False, suffix=".html", encoding="utf-8") as f:
+        f.write(html)
+        webbrowser.open(f"file://{f.name}")
+
+
+def card_search(query):
+    """
+    Opens a CCGTrader search for OverPower cards using the given query string.
+
+    Parameters
+    ----------
+    query : str
+        The card name or keyword to search for.
+    """
+    base_url = "https://www.ccgtrader.net/search"
+    params = {"g": "OVP", "page": "1", "q": query}
+    full_url = f"{base_url}?{urllib.parse.urlencode(params)}"
+    webbrowser.open(full_url)
 
 
 def make_all_teams():
@@ -68,7 +142,7 @@ def import_characters(file='data/characters.csv'):
     with open(file, newline='') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
-            name = row['Character']
+            name = row['Character'].replace(' (V)', '').replace(' (H)', '')
             stats = [
                 int(row['Energy']),
                 int(row['Fighting']),
@@ -84,7 +158,7 @@ def import_characters(file='data/characters.csv'):
 
 from itertools import combinations
 
-def build_valid_teams(chars, stat_name, include=None, stats=[8, 8, 8, 7], show=True):
+def build_valid_teams(chars, stat_name, include=None, exclude=None, stats=(8, 8, 8, 7), active_reserve=True, show=True):
     """
     Builds all valid 16-rank teams from the given character dictionary in the specified stat.
 
@@ -96,6 +170,14 @@ def build_valid_teams(chars, stat_name, include=None, stats=[8, 8, 8, 7], show=T
         The primary stat to use, ['Energy', 'Fighting', 'Strength', 'Intellect']
     include: list or set of str, optional
         Character names that must be included in every team
+    exclude: list or set of str, optional
+        Character names that must not be included in any team
+    stats: list
+        The list of minimum levels for the given stat
+    active_reserve: bool
+        Require at least one character that can play from reserve
+    show: bool
+        Print the results
 
     Returns
     -------
@@ -114,15 +196,17 @@ def build_valid_teams(chars, stat_name, include=None, stats=[8, 8, 8, 7], show=T
 
     stat_idx = stat_index_map[stat_name]
     include = set(include) if include else set()
+    exclude = exclude or []
+    filtered_chars = {name: stats for name, stats in chars.items() if name not in exclude}
 
     if len(stats) != 4:
-        raise ValueError("minimum_levels must be a list of 4 integers.")
+        raise ValueError("'stats' must be a list of 4 integers.")
 
     required = Counter(stats)
 
-    with_8 = [c for c in chars.items() if c[1][stat_idx] == 8]
-    with_7 = [c for c in chars.items() if c[1][stat_idx] == 7]
-    with_6 = [c for c in chars.items() if c[1][stat_idx] == 6]
+    with_8 = [c for c in filtered_chars.items() if c[1][stat_idx] == 8]
+    with_7 = [c for c in filtered_chars.items() if c[1][stat_idx] == 7]
+    with_6 = [c for c in filtered_chars.items() if c[1][stat_idx] == 6]
 
     valid_teams = []
 
@@ -149,82 +233,18 @@ def build_valid_teams(chars, stat_name, include=None, stats=[8, 8, 8, 7], show=T
                 if total > 76:
                     continue
 
-                if not any(char[1][5].strip() != '' for char in team):
-                    continue
+                if active_reserve:
+                    if not any(char[1][5].strip() != '' for char in team):
+                        continue
 
                 valid_teams.append((tuple(names), total))
 
     if show:
-        show_teams_table(valid_teams, chars, save=False, name=stat_name)
+        # show_teams_table(valid_teams, chars, save=False, name=stat_name)
+        display_teams_with_links(valid_teams, chars)
 
     else:
         return valid_teams
-
-
-# def build_valid_teams(chars, stat_name, include=None, low_stat=7, show=True):
-#     """
-#     Builds all valid 16-rank teams from the given character dictionary in the specified stat.
-#
-#     Parameters
-#     ----------
-#     chars: dict
-#         The dictionary of characters
-#     stat_name: str
-#         The primary stat to use, ['Energy', 'Fighting', 'Strength', 'Intellect']
-#     include: list or set of str, optional
-#         Character names that must be included in every team
-#
-#     Returns
-#     -------
-#     list of tuples
-#         Each tuple contains (team_names, total_stat_sum)
-#     """
-#     stat_index_map = {
-#         "Energy": 0,
-#         "Fighting": 1,
-#         "Strength": 2,
-#         "Intellect": 3
-#     }
-#
-#     if stat_name not in stat_index_map:
-#         raise ValueError(f"Invalid stat name '{stat_name}'. Choose from: {list(stat_index_map)}")
-#
-#     stat_idx = stat_index_map[stat_name]
-#     include = set(include) if include else set()
-#     valid_teams = []
-#
-#     with_8 = [(name, stats) for name, stats in chars.items() if stats[stat_idx] == 8]
-#     with_7_or_more = [(name, stats) for name, stats in chars.items() if stats[stat_idx] >= low_stat]
-#
-#     for trio in combinations(with_8, 3):
-#         trio_names = {c[0] for c in trio}
-#
-#         for fourth in with_7_or_more:
-#             if fourth[0] in trio_names:
-#                 continue
-#
-#             team = list(trio) + [fourth]
-#
-#             total = sum(sum(char[1][:4]) for char in team)
-#             if total > 76:
-#                 continue
-#
-#             specials = [char[1][5].strip() != '' for char in team]
-#             if not any(specials):
-#                 continue
-#
-#             team_names = {char[0] for char in team}
-#             if not include.issubset(team_names):
-#                 continue
-#
-#             names = tuple(char[0] for char in team)
-#             valid_teams.append((names, total))
-#
-#     if show:
-#         show_teams_table(valid_teams, chars, save=False, name=stat_name)
-#
-#     else:
-#         return valid_teams
 
 
 def show_teams_table(teams, chars, save=False, filename='valid_teams.csv', name='potential'):
