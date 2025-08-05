@@ -44,6 +44,7 @@ def display_teams_with_links(teams, chars):
             th, td { border: 1px solid #ccc; padding: 8px; text-align: center; }
             td a { text-decoration: none; font-weight: bold; }
             .stat-line { font-size: 0.9em; color: #555; }
+            .reserve { color: #FF0000; }
         </style>
     </head>
     <body>
@@ -58,9 +59,10 @@ def display_teams_with_links(teams, chars):
         for name in names:
             stats = chars[name]
             stat_line = f"[{stats[0]}, {stats[1]}, {stats[2]}, {stats[3]}]"  # [E, F, S, I]
-            special_line = f"<br>{stats[-1]}" if stats[-1] != '' else ''
+            special_line = f"<br><span class='reserve'>{stats[5]}</span>" if stats[5] != '' else ''
+            notes = f"<br>{stats[6]}" if stats[6] != '' else ''
             url = f"https://www.ccgtrader.net/search?g=OVP&page=1&q={urllib.parse.quote(name)}"
-            html += f"<td><a href='{url}' target='_blank'>{escape(name)}</a><br><span class='stat-line'>{stat_line}{special_line}</span></td>"
+            html += f"<td><a href='{url}' target='_blank'>{escape(name)}</a><br><span class='stat-line'>{stat_line}{special_line}{notes}</span></td>"
         html += f"<td>{total}</td></tr>"
 
     html += """
@@ -148,8 +150,9 @@ def import_characters(file='data/characters.csv'):
                 int(row['Fighting']),
                 int(row['Strength']),
                 int(row['Intellect']),
-                row['Threat'],
-                row['Special'].strip()
+                int(row['Threat']),
+                row['Special'].strip(),
+                row['Notes']
             ]
             chars[name] = stats
     
@@ -158,7 +161,7 @@ def import_characters(file='data/characters.csv'):
 
 from itertools import combinations
 
-def build_valid_teams(chars, stat_name, include=None, exclude=None, stats=(8, 8, 8, 7), active_reserve=True, show=True):
+def build_valid_teams(chars, stat_name, include=None, exclude=None, stats=(8, 8, 8, 7), active_reserve=True, show=True, n_results=1000):
     """
     Builds all valid 16-rank teams from the given character dictionary in the specified stat.
 
@@ -228,8 +231,7 @@ def build_valid_teams(chars, stat_name, include=None, exclude=None, stats=(8, 8,
 
                 if not include.issubset(names):
                     continue
-
-                total = sum(sum(char[1][:4]) for char in team)
+                total = sum([c[1][4] for c in team])
                 if total > 76:
                     continue
 
@@ -238,6 +240,10 @@ def build_valid_teams(chars, stat_name, include=None, exclude=None, stats=(8, 8,
                         continue
 
                 valid_teams.append((tuple(names), total))
+
+    if len(valid_teams) > n_results:
+        print(f"Displaying {n_results}/{len(valid_teams)} possible teams.")
+        valid_teams = valid_teams[:n_results]
 
     if show:
         # show_teams_table(valid_teams, chars, save=False, name=stat_name)
